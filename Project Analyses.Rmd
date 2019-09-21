@@ -1,5 +1,5 @@
 ---
-title: "Final Project Milestone #2: Project Analyses"
+title: "Final Project Milestone #2: Looking at Past Projects"
 author: Camila Sanmiguel
 output: html_document
 ---
@@ -7,3 +7,24 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+
+==**Project 1**==: Tanya Rohatgi, "Exploring U.S. Exoneration Data"
+https://tanyarohatgi.shinyapps.io/exoneration-data/
+Description of project: This project uses data from the National Registry of Exonerations and analyzes data from exonerations.
+
+**Pros:** This data visualized findings showing that official misconduct and false accusations played a greater role in the convictions of exonerees and that mistaken witness ID played a far greater role in sending black exonerees to prison than it did for any other race; this project was fascinating to go through and is exactly the kind of examination I want to make for my own project.
+
+**Cons:** For me personally, all the sub-organization in the drop-down menus under "Plots and Findings" were confusing, and perhaps would have been more effectively portrayed through multiple sidebar menus like the ones Project 2 employed so clearly.
+
+
+
+**Project 2:** "First-Year Blocking Group Project"
+https://adiya1.shinyapps.io/blocking-project/ 
+Description of project: 
+
+**Pros:** This project made use of many different data visualizations: 
+It was also extremely thorough, providing abundant  conclusions and extensively gathering and cleaning data through a self-designed survey, making very educated and reasonable conclusions about entryway microcosms and data validation, and even proving that their data matched up with The Crimson's findings and went a step further to scrape athlete rosters. It used many different types of ggplots and used faceted visualizations.
+
+**Cons:** This project had few cons, but one was that a link on its page did not lead anywhere. Another could be that it didn't have a page outlining definitive takeaways in the way that other projects did, like Kodi's Ariana Grande project did, and therefore leaves it up to viewers to come up with their own conclusions without giving it neatly to them in the form of some paragraphs.
+
