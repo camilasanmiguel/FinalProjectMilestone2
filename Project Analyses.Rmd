@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-==**Project 1**==: Tanya Rohatgi, "Exploring U.S. Exoneration Data"
+### **Project 1**: "Exploring U.S. Exoneration Data"
 https://tanyarohatgi.shinyapps.io/exoneration-data/
 Description of project: This project uses data from the National Registry of Exonerations and analyzes data from exonerations.
 
@@ -19,9 +19,10 @@ Description of project: This project uses data from the National Registry of Exo
 
 
 
-**Project 2:** "First-Year Blocking Group Project"
+
+### **Project 2:** "First-Year Blocking Group Project"
 https://adiya1.shinyapps.io/blocking-project/ 
-Description of project: 
+Description of project: This project surveyed Harvard freshmen and used 14 variables in its dataset to make conclusions about blocking and linking groups and their relation to legacy, athlete, gender, ethnicity, and financial aid statuses.
 
 **Pros:** This project made use of many different data visualizations: 
 It was also extremely thorough, providing abundant  conclusions and extensively gathering and cleaning data through a self-designed survey, making very educated and reasonable conclusions about entryway microcosms and data validation, and even proving that their data matched up with The Crimson's findings and went a step further to scrape athlete rosters. It used many different types of ggplots and used faceted visualizations.
